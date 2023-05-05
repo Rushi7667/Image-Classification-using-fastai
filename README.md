@@ -6,7 +6,9 @@ fastai is a deep learning library which provides practitioners with high-level c
 </p>
 
 <h3>output image 1</h3>
+
 ![alt text](https://github.com/Rushi7667/Image-Classification-using-fastai/blob/main/images/demo1.jpg)
 
 <h3>output image 2</h3>
-![alt text](https://github.com/Rushi7667/Image-Classification-using-fastai/blob/main/images/demo2.jpg)
+
+![alt text](https://github.com/Rushi7667/Image-Classification-using-fastai/blob/main/images/demo2.jpg)o
